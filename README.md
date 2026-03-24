@@ -17,7 +17,7 @@ Building data tools and market research automation.
 - **77 web scrapers** on [Apify Store](https://apify.com/store?search=knotless_cadence)
 - **500 market research reports** on [GitHub](https://github.com/spinov001-art/ai-market-research-reports)
 - **15 MCP servers** for AI agents
-- **250+ technical articles** on [Dev.to](https://dev.to/0012303)
+- **247 technical articles** on [Dev.to](https://dev.to/0012303)
 
 ## Top Tools
 
@@ -25,9 +25,12 @@ Building data tools and market research automation.
 - [YouTube Comments](https://apify.com/knotless_cadence/youtube-comments-scraper) — Innertube API
 - [MCP Market Research](https://apify.com/knotless_cadence/mcp-market-research-server) — 9 sources
 
+## Stats
+
+⭐ 9 GitHub stars · 📦 1,600+ report downloads · 📝 247 articles · 1,400+ Dev.to views
+
 ## Repos
 
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77 tools
 - [ai-market-research-reports](https://github.com/spinov001-art/ai-market-research-reports) — 500 reports
 - [mcp-servers-collection](https://github.com/spinov001-art/mcp-servers-collection) — 15 MCP servers
-

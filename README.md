@@ -34,3 +34,4 @@ Building data tools and market research automation.
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77 tools
 - [ai-market-research-reports](https://github.com/spinov001-art/ai-market-research-reports) — 500 reports
 - [mcp-servers-collection](https://github.com/spinov001-art/mcp-servers-collection) — 15 MCP servers
+- [youtube-rag-knowledge-base](https://github.com/spinov001-art/youtube-rag-knowledge-base) — AI knowledge base from YouTube (RAG + Innertube)

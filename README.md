@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **262+ repos. 480+ articles.**
+Building open-source toolkits for free APIs. **265+ repos. 480+ articles.**
 
 ## Python API Client Library — 28 Toolkits
 

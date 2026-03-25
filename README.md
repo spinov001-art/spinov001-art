@@ -1,6 +1,15 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **291+ repos. 530+ articles. 11 awesome lists.**
+Building open-source toolkits for free APIs. **296+ repos. 550+ articles. 11 awesome lists.**
+
+
+## NEW: Ready-to-Run Scripts & Tutorials
+
+| Repo | Description |
+|------|-------------|
+| [python-data-scripts](https://github.com/spinov001-art/python-data-scripts) | 50+ copy-paste Python scripts for APIs, scraping, automation |
+| [sqlite-vector-search-tutorial](https://github.com/spinov001-art/sqlite-vector-search-tutorial) | Build semantic search with SQLite (no server needed) |
+| [awesome-free-academic-apis](https://github.com/spinov001-art/awesome-free-academic-apis) | Curated list of free research APIs |
 
 ## Python API Client Library — 28 Toolkits
 
@@ -60,7 +69,7 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (530+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (550+ articles)](https://dev.to/0012303)
 
 
 ### Python API Clients (No Key Required)

@@ -1,8 +1,8 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. 182 repos. 450+ articles.
+Building open-source toolkits for free APIs. 186 repos. 470+ articles.
 
-## Research API Suite — 14 Python Toolkits
+## Research API Suite — 17 Python Toolkits
 
 Search **800M+ academic papers, 500K+ clinical trials, 8M+ patents** from your terminal. All free.
 
@@ -22,11 +22,15 @@ Search **800M+ academic papers, 500K+ clinical trials, 8M+ patents** from your t
 | [Weather Toolkit](https://github.com/spinov001-art/weather-api-toolkit) | Open-Meteo | Global weather | No |
 | [IP Geolocation](https://github.com/spinov001-art/ip-geolocation-toolkit) | ip-api/Shodan | Any IP | No |
 | [Security Scanner](https://github.com/spinov001-art/api-security-scanner) | 5 security APIs | Vulns+Threats | No |
+| [NLP & Translation](https://github.com/spinov001-art/nlp-api-toolkit) | MyMemory/Datamuse | Translation+NLP | No |
+| [DNS Lookup](https://github.com/spinov001-art/dns-lookup-toolkit) | Multiple | DNS records | No |
+| [Geocoding](https://github.com/spinov001-art/geocoding-api-toolkit) | Nominatim | Addresses+Coords | No |
 
 ## Web Scraping & Data Tools
 
 | Repo | Description |
 |------|-------------|
+| [web-scraping-cheatsheet](https://github.com/spinov001-art/web-scraping-cheatsheet) | Ultimate web scraping reference 2026 |
 | [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) | 77 free web scraping tools |
 | [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) | 30+ free academic APIs |
 | [awesome-security-apis](https://github.com/spinov001-art/awesome-security-apis) | Free security & threat intel APIs |
@@ -45,4 +49,4 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (450+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (470+ articles)](https://dev.to/0012303)

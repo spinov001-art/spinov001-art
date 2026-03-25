@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **269+ repos. 480+ articles.**
+Building open-source toolkits for free APIs. **279+ repos. 480+ articles.**
 
 ## Python API Client Library — 28 Toolkits
 
@@ -66,4 +66,13 @@ Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.t
 - [python-backup-tool](https://github.com/spinov001-art/python-backup-tool) — Incremental backups with compression
 - [python-dns-lookup](https://github.com/spinov001-art/python-dns-lookup) — DNS resolver (A, MX, NS, TXT, reverse)
 - [python-hash-checker](https://github.com/spinov001-art/python-hash-checker) — File hashing, verification, duplicate finder
-- [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) — 50+ modern CLI tools for developers
+- [python-http-client](https://github.com/spinov001-art/python-http-client) — Zero-dependency HTTP client with retries
+- [python-regex-tester](https://github.com/spinov001-art/python-regex-tester) — Interactive regex tester with pattern library
+- [python-markdown-tool](https://github.com/spinov001-art/python-markdown-tool) — Markdown → HTML converter and link validator
+
+### Awesome Lists (Curated Tool Collections)
+- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 150+ web scraping tools
+- [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 120+ DevOps, CI/CD, IaC tools
+- [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) — 120+ API development tools
+- [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) — 50+ modern CLI tools
+- [awesome-python-devtools-2026](https://github.com/spinov001-art/awesome-python-devtools-2026) — 80+ Python developer tools

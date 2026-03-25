@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **230 repos. 480+ articles.**
+Building open-source toolkits for free APIs. **244+ repos. 480+ articles.**
 
 ## Python API Client Library — 28 Toolkits
 
@@ -49,8 +49,15 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 
 | Service | Price |
 |---------|-------|
-| Custom API wrapper / data pipeline | $50-200 |
+| Custom API wrapper / data pipeline | $50-244+ |
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
 Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (480+ articles)](https://dev.to/0012303)
+
+
+### Python API Clients (No Key Required)
+- [python-reddit-api](https://github.com/spinov001-art/python-reddit-api) — Reddit posts, comments, search
+- [python-hn-api](https://github.com/spinov001-art/python-hn-api) — Hacker News stories, search
+- [build-weather-bot](https://github.com/spinov001-art/build-weather-bot) — Weather + Telegram alerts
+- [build-price-tracker](https://github.com/spinov001-art/build-price-tracker) — Crypto prices + alerts

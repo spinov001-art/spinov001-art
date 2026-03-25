@@ -1,41 +1,43 @@
-# AI Market Intelligence
+# Data Tools & Research APIs
 
-Building data tools and market research automation.
+Building open-source toolkits for free APIs. 174 repos. 430+ articles.
 
-## Hire Me — Web Scraping & Market Research
+## Research API Suite — 10 Python Toolkits
+
+Search **800M+ academic papers** from your terminal. All free. All open source.
+
+| Toolkit | API | Records | Key? |
+|---------|-----|---------|------|
+| [OpenAlex Toolkit](https://github.com/spinov001-art/openalex-research-toolkit) | OpenAlex | 250M+ papers | No |
+| [Crossref Toolkit](https://github.com/spinov001-art/crossref-research-toolkit) | Crossref | 150M+ articles | No |
+| [Semantic Scholar](https://github.com/spinov001-art/semantic-scholar-toolkit) | Semantic Scholar | 200M+ papers | Optional |
+| [CORE Toolkit](https://github.com/spinov001-art/core-research-toolkit) | CORE | 300M+ OA papers | Free key |
+| [PubMed Toolkit](https://github.com/spinov001-art/pubmed-research-toolkit) | PubMed | 36M+ papers | No |
+| [arXiv Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) | arXiv | 2M+ preprints | No |
+| [Unpaywall Toolkit](https://github.com/spinov001-art/unpaywall-toolkit) | Unpaywall | 30M+ free PDFs | Email |
+| [ORCID Toolkit](https://github.com/spinov001-art/orcid-research-toolkit) | ORCID | 17M+ profiles | No |
+| [YouTube Innertube](https://github.com/spinov001-art/youtube-innertube-toolkit) | YouTube | Unlimited | No |
+| [Research CLI](https://github.com/spinov001-art/research-paper-cli) | All above | 800M+ combined | No |
+
+## Web Scraping & Data Tools
+
+| Repo | Description |
+|------|-------------|
+| [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) | 77 free web scraping tools |
+| [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) | 30+ free academic APIs |
+| [awesome-python-api-wrappers](https://github.com/spinov001-art/awesome-python-api-wrappers) | Curated Python API wrappers |
+| [awesome-devsec-tools](https://github.com/spinov001-art/awesome-devsec-tools) | Security scanners & tools |
+
+## 77 Web Scrapers on Apify
+
+API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apify Store →](https://apify.com/knotless_cadence)
+
+## Hire Me
 
 | Service | Price |
 |---------|-------|
-| Scrape any website → JSON/CSV | $20 |
-| Market research report (any industry) | $20 |
-| Custom automation setup | $50-100 |
+| Custom API wrapper / data pipeline | $50-200 |
+| Market research report | $50 |
+| Web scraping (any site → JSON/CSV) | $20 |
 
-**[Pay $20 via Payoneer](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** | Email: Spinov001@gmail.com | **[Website](https://spinov001-art.github.io)**
-
-## Portfolio
-
-- **77 web scrapers** — API-first, never break on redesigns
-- **500+ market research reports** on [GitHub](https://github.com/spinov001-art/ai-market-research-reports)
-- **15 MCP servers** for AI agents (Claude Desktop compatible)
-- **250+ technical articles** on [Dev.to](https://dev.to/0012303)
-- **24 GitHub repos** with tutorials and tools
-
-## Featured Repos
-
-| Repo | Stars | Description |
-|------|-------|-------------|
-| [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) | 9 | 77 free web scraping tools |
-| [youtube-rag-knowledge-base](https://github.com/spinov001-art/youtube-rag-knowledge-base) | - | AI knowledge base from YouTube (RAG + Innertube) |
-| [api-scraping-templates](https://github.com/spinov001-art/api-scraping-templates) | - | 20+ Python templates for free APIs |
-| [price-monitoring-free](https://github.com/spinov001-art/price-monitoring-free) | - | $0/month competitor price tracker |
-| [mcp-servers-collection](https://github.com/spinov001-art/mcp-servers-collection) | - | 15 MCP servers for AI agents |
-
-## Recent Articles
-
-- [Price Monitoring in 30 Minutes](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6) — Sitemaps + JSON-LD + GitHub
-- [Replace $200/mo AI Pipeline](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref APIs
-- [YouTube Hidden API](https://dev.to/0012303/youtube-has-a-hidden-api-that-needs-no-api-key-here-is-how-to-use-it-2n9e) — Innertube API tutorial
-
-## Stats
-
-9 GitHub stars · 1,600+ report downloads · 250+ articles · 1,500+ Dev.to views
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (430+ articles)](https://dev.to/0012303)

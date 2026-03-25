@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **289+ repos. 485+ articles. 11 awesome lists.**
+Building open-source toolkits for free APIs. **291+ repos. 530+ articles. 11 awesome lists.**
 
 ## Python API Client Library — 28 Toolkits
 
@@ -60,7 +60,7 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (485+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (530+ articles)](https://dev.to/0012303)
 
 
 ### Python API Clients (No Key Required)

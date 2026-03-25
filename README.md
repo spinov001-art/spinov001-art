@@ -1,10 +1,10 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. 174 repos. 430+ articles.
+Building open-source toolkits for free APIs. 182 repos. 450+ articles.
 
-## Research API Suite — 10 Python Toolkits
+## Research API Suite — 14 Python Toolkits
 
-Search **800M+ academic papers** from your terminal. All free. All open source.
+Search **800M+ academic papers, 500K+ clinical trials, 8M+ patents** from your terminal. All free.
 
 | Toolkit | API | Records | Key? |
 |---------|-----|---------|------|
@@ -16,8 +16,12 @@ Search **800M+ academic papers** from your terminal. All free. All open source.
 | [arXiv Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) | arXiv | 2M+ preprints | No |
 | [Unpaywall Toolkit](https://github.com/spinov001-art/unpaywall-toolkit) | Unpaywall | 30M+ free PDFs | Email |
 | [ORCID Toolkit](https://github.com/spinov001-art/orcid-research-toolkit) | ORCID | 17M+ profiles | No |
-| [YouTube Innertube](https://github.com/spinov001-art/youtube-innertube-toolkit) | YouTube | Unlimited | No |
-| [Research CLI](https://github.com/spinov001-art/research-paper-cli) | All above | 800M+ combined | No |
+| [ClinicalTrials.gov](https://github.com/spinov001-art/clinicaltrials-research-toolkit) | ClinicalTrials | 500K+ trials | No |
+| [Patent Toolkit](https://github.com/spinov001-art/patent-api-toolkit) | USPTO | 8M+ patents | No |
+| [Finance Toolkit](https://github.com/spinov001-art/finance-api-toolkit) | Yahoo/CoinGecko | Stocks+Crypto | No |
+| [Weather Toolkit](https://github.com/spinov001-art/weather-api-toolkit) | Open-Meteo | Global weather | No |
+| [IP Geolocation](https://github.com/spinov001-art/ip-geolocation-toolkit) | ip-api/Shodan | Any IP | No |
+| [Security Scanner](https://github.com/spinov001-art/api-security-scanner) | 5 security APIs | Vulns+Threats | No |
 
 ## Web Scraping & Data Tools
 
@@ -25,6 +29,7 @@ Search **800M+ academic papers** from your terminal. All free. All open source.
 |------|-------------|
 | [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) | 77 free web scraping tools |
 | [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) | 30+ free academic APIs |
+| [awesome-security-apis](https://github.com/spinov001-art/awesome-security-apis) | Free security & threat intel APIs |
 | [awesome-python-api-wrappers](https://github.com/spinov001-art/awesome-python-api-wrappers) | Curated Python API wrappers |
 | [awesome-devsec-tools](https://github.com/spinov001-art/awesome-devsec-tools) | Security scanners & tools |
 
@@ -40,4 +45,4 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (430+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (450+ articles)](https://dev.to/0012303)

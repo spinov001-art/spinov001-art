@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **285+ repos. 475+ articles.**
+Building open-source toolkits for free APIs. **289+ repos. 485+ articles. 11 awesome lists.**
 
 ## Python API Client Library — 28 Toolkits
 
@@ -33,12 +33,19 @@ No-auth Python clients for free APIs. Just `pip install requests` and go.
 | [Dad Jokes](https://github.com/spinov001-art/dadjoke-python) | icanhazdadjoke | Random jokes |
 | [GitHub](https://github.com/spinov001-art/github-api-python) | GitHub API | Users, repos, search |
 
-### Curated Lists
+### Curated Awesome Lists (11 lists, 1,000+ tools)
 | Repo | Description |
 |------|-------------|
-| [awesome-no-auth-apis](https://github.com/spinov001-art/awesome-no-auth-apis) | 50+ APIs that need zero authentication |
+| [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) | 250+ web scraping tools (9 stars) |
+| [awesome-free-apis-2026](https://github.com/spinov001-art/awesome-free-apis-2026) | 150+ free APIs without auth keys |
+| [awesome-data-engineering-2026](https://github.com/spinov001-art/awesome-data-engineering-2026) | 150+ data engineering tools |
+| [awesome-security-tools-2026](https://github.com/spinov001-art/awesome-security-tools-2026) | 150+ cybersecurity tools |
+| [awesome-mcp-tools-2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) | 130+ MCP servers for AI |
+| [awesome-claude-code-skills](https://github.com/spinov001-art/awesome-claude-code-skills) | Claude Code skills & extensions |
+| [awesome-ai-tools-2026](https://github.com/spinov001-art/awesome-ai-tools-2026) | 100+ AI/ML tools |
+| [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) | 120+ DevOps tools |
+| [awesome-no-auth-apis](https://github.com/spinov001-art/awesome-no-auth-apis) | 50+ APIs without authentication |
 | [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) | 30+ free academic APIs |
-| [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) | 77 free web scraping tools |
 | [web-scraping-cheatsheet](https://github.com/spinov001-art/web-scraping-cheatsheet) | Ultimate scraping reference |
 
 ## 77 Web Scrapers on Apify
@@ -53,7 +60,7 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (480+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (485+ articles)](https://dev.to/0012303)
 
 
 ### Python API Clients (No Key Required)

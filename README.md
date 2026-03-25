@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **244+ repos. 480+ articles.**
+Building open-source toolkits for free APIs. **250+ repos. 480+ articles.**
 
 ## Python API Client Library — 28 Toolkits
 
@@ -49,7 +49,7 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 
 | Service | Price |
 |---------|-------|
-| Custom API wrapper / data pipeline | $50-244+ |
+| Custom API wrapper / data pipeline | $50-250+ |
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 

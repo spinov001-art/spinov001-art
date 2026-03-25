@@ -1,8 +1,8 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. 186 repos. 470+ articles.
+Building open-source toolkits for free APIs. 206 repos. 445+ articles.
 
-## Research API Suite — 17 Python Toolkits
+## Research API Suite — 19 Python Toolkits
 
 Search **800M+ academic papers, 500K+ clinical trials, 8M+ patents** from your terminal. All free.
 
@@ -49,4 +49,4 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (470+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (445+ articles)](https://dev.to/0012303)

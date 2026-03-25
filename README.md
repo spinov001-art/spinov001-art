@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **265+ repos. 480+ articles.**
+Building open-source toolkits for free APIs. **269+ repos. 480+ articles.**
 
 ## Python API Client Library — 28 Toolkits
 
@@ -61,3 +61,9 @@ Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.t
 - [python-hn-api](https://github.com/spinov001-art/python-hn-api) — Hacker News stories, search
 - [build-weather-bot](https://github.com/spinov001-art/build-weather-bot) — Weather + Telegram alerts
 - [build-price-tracker](https://github.com/spinov001-art/build-price-tracker) — Crypto prices + alerts
+
+### Python CLI Tools (Zero Dependencies)
+- [python-backup-tool](https://github.com/spinov001-art/python-backup-tool) — Incremental backups with compression
+- [python-dns-lookup](https://github.com/spinov001-art/python-dns-lookup) — DNS resolver (A, MX, NS, TXT, reverse)
+- [python-hash-checker](https://github.com/spinov001-art/python-hash-checker) — File hashing, verification, duplicate finder
+- [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) — 50+ modern CLI tools for developers

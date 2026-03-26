@@ -69,7 +69,9 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (650+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Apify Store](https://apify.com/knotless_cadence) | [Dev.to (650+ articles)](https://dev.to/0012303)
+
+💳 **[Pay via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** (wire transfer, works worldwide)
 
 
 ### Python API Clients (No Key Required)

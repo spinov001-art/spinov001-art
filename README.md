@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **296+ repos. 550+ articles. 11 awesome lists.**
+Building open-source toolkits for free APIs. **298+ repos. 650+ articles. 11 awesome lists.**
 
 
 ## NEW: Ready-to-Run Scripts & Tutorials
@@ -57,7 +57,7 @@ No-auth Python clients for free APIs. Just `pip install requests` and go.
 | [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) | 30+ free academic APIs |
 | [web-scraping-cheatsheet](https://github.com/spinov001-art/web-scraping-cheatsheet) | Ultimate scraping reference |
 
-## 77 Web Scrapers on Apify
+## 88+ Web Scrapers on Apify
 
 API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apify Store →](https://apify.com/knotless_cadence)
 
@@ -69,7 +69,7 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (550+ articles)](https://dev.to/0012303)
+Email: Spinov001@gmail.com | [Website](https://spinov001-art.github.io) | [Dev.to (650+ articles)](https://dev.to/0012303)
 
 
 ### Python API Clients (No Key Required)

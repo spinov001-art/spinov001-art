@@ -1,6 +1,8 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **298+ repos. 650+ articles. 11 awesome lists.**
+Building open-source toolkits for free APIs. **298+ repos. 88 production scrapers on Apify. 11 awesome lists.**
+
+> 🔥 **Need a custom scraper or data pipeline?** I deliver working solutions in 48 hours — $20 for simple extractions, $50-250 for complex pipelines. **[Email me →](mailto:spinov001@gmail.com)** or **[browse 88 ready-made scrapers](https://apify.com/knotless_cadence)**
 
 
 ## NEW: Ready-to-Run Scripts & Tutorials
@@ -69,7 +71,7 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Market research report | $50 |
 | Web scraping (any site → JSON/CSV) | $20 |
 
-Email: Spinov001@gmail.com | [Apify Store](https://apify.com/knotless_cadence) | [Dev.to (650+ articles)](https://dev.to/0012303)
+📧 **[Spinov001@gmail.com](mailto:spinov001@gmail.com)** — reply within 2 hours | [88 Scrapers on Apify](https://apify.com/knotless_cadence) | [Landing Page](https://spinov001-art.github.io)
 
 💳 **[Pay via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** (wire transfer, works worldwide)
 

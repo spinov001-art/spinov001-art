@@ -1,6 +1,6 @@
 # Data Tools & Research APIs
 
-Building open-source toolkits for free APIs. **298+ repos. 88 production scrapers on Apify. 11 awesome lists.**
+Building open-source toolkits for free APIs. **298+ repos. 78 production scrapers on Apify. 11 awesome lists.** Currently writing sponsored articles for [Proxy-Seller](https://proxy-seller.com/).
 
 > 🔥 **Need a custom scraper or data pipeline?** Production-grade solutions delivered in 48 hours — $250 flat rate. **[Email me →](mailto:spinov001@gmail.com)** or **[browse 78+ ready-made scrapers](https://apify.com/knotless_cadence)**
 
@@ -59,7 +59,7 @@ No-auth Python clients for free APIs. Just `pip install requests` and go.
 | [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) | 30+ free academic APIs |
 | [web-scraping-cheatsheet](https://github.com/spinov001-art/web-scraping-cheatsheet) | Ultimate scraping reference |
 
-## 88+ Web Scrapers on Apify
+## 78+ Web Scrapers on Apify
 
 API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apify Store →](https://apify.com/knotless_cadence)
 
@@ -71,7 +71,7 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 | Custom API wrapper / data pipeline | $250+ |
 | Market research report | $250 |
 
-📧 **[Spinov001@gmail.com](mailto:spinov001@gmail.com)** — reply within 2 hours | [88 Scrapers on Apify](https://apify.com/knotless_cadence) | [Landing Page](https://github.com/spinov001-art)
+📧 **[Spinov001@gmail.com](mailto:spinov001@gmail.com)** — reply within 2 hours | [78 Scrapers on Apify](https://apify.com/knotless_cadence) | [Landing Page](https://github.com/spinov001-art)
 
 💳 **[Pay via Payoneer →](https://link.payoneer.com/Token?t=E82590E5D2534557BF2FDBD721411A64&src=pl)** (wire transfer, works worldwide)
 

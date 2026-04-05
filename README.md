@@ -2,7 +2,7 @@
 
 Building open-source toolkits for free APIs. **298+ repos. 88 production scrapers on Apify. 11 awesome lists.**
 
-> 🔥 **Need a custom scraper or data pipeline?** I deliver working solutions in 48 hours — $20 for simple extractions, $50-250 for complex pipelines. **[Email me →](mailto:spinov001@gmail.com)** or **[browse 88 ready-made scrapers](https://apify.com/knotless_cadence)**
+> 🔥 **Need a custom scraper or data pipeline?** Production-grade solutions delivered in 48 hours — $250 flat rate. **[Email me →](mailto:spinov001@gmail.com)** or **[browse 78+ ready-made scrapers](https://apify.com/knotless_cadence)**
 
 
 ## NEW: Ready-to-Run Scripts & Tutorials

@@ -67,9 +67,9 @@ API-first scrapers for YouTube, Reddit, Bluesky, GitHub, and more. [View on Apif
 
 | Service | Price |
 |---------|-------|
-| Custom API wrapper / data pipeline | $50-250+ |
-| Market research report | $50 |
-| Web scraping (any site → JSON/CSV) | $20 |
+| Custom scraper (any site → JSON/CSV) | $250 |
+| Custom API wrapper / data pipeline | $250+ |
+| Market research report | $250 |
 
 📧 **[Spinov001@gmail.com](mailto:spinov001@gmail.com)** — reply within 2 hours | [88 Scrapers on Apify](https://apify.com/knotless_cadence) | [Landing Page](https://github.com/spinov001-art)
 
